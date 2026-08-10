@@ -1,6 +1,6 @@
 # Hi 👋, I'm HARSH YADAV
 
-### CSE '29 • INDIAN INSTITUTE OF INFORMATION TECHNOLOGY UNA
+### CSE '29 @ INDIAN INSTITUTE OF INFORMATION TECHNOLOGY UNA
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learn.+Build.+Improve.;Stay+Curious%2C+Keep+Building.;Small+Steps%2C+Big+Goals." />
